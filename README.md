@@ -23,9 +23,9 @@ Place the Dracula.qss file in your ~/.config/quassel-irc.org folder and apply it
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
 
-[![Michael Alexander](https://avatars0.githubusercontent.com/u/25594630?v=4&s=460)](https://github.com/iinkky) |
+[![Stephen Maxwell](https://avatars0.githubusercontent.com/u/25594630?v=3&s=70)](https://github.com/iinkky) |
 --- |
-[Stephen Maxwell](https://github.com/iinkky |
+[Stephen Maxwell](https://github.com/iinkky) |
 
 ## License
 
