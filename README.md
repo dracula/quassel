@@ -7,14 +7,25 @@ This theme is a fork of the [DarkSolarized](https://gist.github.com/Zren/e91ad51
 
 For other stylesheets see [here](http://bugs.quassel-irc.org/projects/quassel-irc/wiki/Stylesheet_Gallery).
 
+## Install using Git
+If you are a git user, you can install the theme and keep up to date by cloning the repo:
+
+$ git clone https://github.com/dracula/quassel.git
+
+## Install manually
+Download using the GitHub .zip download option and unzip them.
+
+## Activating theme
+Place the Dracula.qss file in your ~/.config/quassel-irc.org folder and apply it via Interface Settings
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+
+[![Michael Alexander](https://avatars0.githubusercontent.com/u/25594630?v=4&s=460)](https://github.com/iinkky) |
+--- |
+[Stephen Maxwell](https://github.com/iinkky |
 
 ## License
 
