@@ -16,7 +16,8 @@ $ git clone https://github.com/dracula/quassel.git
 Download using the GitHub .zip download option and unzip them.
 
 ## Activating theme
-Place the Dracula.qss file in your ~/.config/quassel-irc.org folder and apply it via Interface Settings
+1. Place the Dracula.qss file in your ~/.config/quassel-irc.org folder 
+2. Select and apply this theme via Interface Settings
 
 ## Team
 
