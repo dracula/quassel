@@ -2,7 +2,7 @@
 
 > A dark theme for [Quassel](http://www.quassel-irc.org/) IRC client
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/quassel.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
